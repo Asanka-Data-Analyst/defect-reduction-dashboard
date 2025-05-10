@@ -20,7 +20,7 @@ This Tableau dashboard provides an in-depth analysis of product defects to suppo
 - 📊 Visual summary of total defects over time
 - 🏭 Breakdown by monthy the lot of block quantity
 - ⚠️ Highlights of highest-impact defects (Top Defects)
-- ⚠️ Highlights the parents products and items of most defects
+- ⚠️ Highlights the parents products and items of relevent defects
 - ⚠️ Highlights the defect machines in any components produced   
 - 📈 Trend analysis for early detection and correction
 - 🔍 Filters for focused investigation
