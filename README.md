@@ -4,7 +4,7 @@ This Tableau dashboard provides an in-depth analysis of product defects to suppo
 
 🔗 **[View the Live Dashboard on Tableau Public](https://public.tableau.com/views/DefectReductionAnalysis/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](images/dashboard-preview.png)
+![Dashboard](Dashboard.png)
 
 
 
