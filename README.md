@@ -3,8 +3,13 @@
 This Tableau dashboard provides an in-depth analysis of product defects to support quality improvement initiatives. Built as part of my internship at **Atlas**, it aims to identify root causes, monitor defect trends, and reduce waste in the production process.
 
 🔗 **[View the Live Dashboard on Tableau Public](https://public.tableau.com/views/DefectReductionAnalysis/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-## 🖼️ Dashboard Preview
+## 📊 Dashboard Preview
+
+### 🖼️ Image View
 ![Dashboard](Dashboard.png)
+
+### 📄 PDF Version
+[Click here to view the full Dashboard (PDF)](Dashboard.pdf)
 
 
 
