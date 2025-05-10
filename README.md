@@ -40,9 +40,14 @@ This Tableau dashboard provides an in-depth analysis of product defects to suppo
 
 This dashboard is designed to be used by QA teams and plant managers to:
 
-- Monitor real-time defect rates  
+- Monitor real-time defect rates
+- Identify highst impact defects
+- Find about most defects come from which parent products and items
+- Find the machines for services and repair
+- Discover the items 
 - Discover patterns in production issues  
-- Take data-driven corrective actions  
+- Take data-driven corrective actions
+- Asses the improvement and growth in Quality Department 
 
 ---
 
@@ -58,13 +63,16 @@ This dashboard is designed to be used by QA teams and plant managers to:
 ## 📂 Repository Contents
 
 - `README.md` – Project overview  
-- `images/` – Dashboard preview screenshot *(optional)*  
-- `data/` – Sample or dummy data *(optional)*  
+- `images/` – Dashboard preview
+- `pdf/` – Dashboard preview  
+  
 
 ---
 
 ## ⭐ Future Enhancements
 
+- Add navigation to severel dashboards for deep analytics
 - Add embedded iframe version  
 - Link dashboard to live production data  
-- Include KPI comparisons across different product lines
+  
+  
